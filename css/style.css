@@ -53,6 +53,7 @@ body {
     to right bottom,
     var(--color-primary-light),
     var(--color-primary-dark)
+    
   );
   background-size: cover;
   background-repeat: no-repeat;
